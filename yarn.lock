@@ -4431,10 +4431,10 @@
   resolved "https://registry.npmjs.org/@types/node/-/node-13.13.15.tgz#fe1cc3aa465a3ea6858b793fd380b66c39919766"
   integrity sha512-kwbcs0jySLxzLsa2nWUAGOd/s21WU1jebrEdtzhsj1D4Yps1EOuyI1Qcu+FD56dL7NRNIJtDDjcqIG22NwkgLw==
 
-"@types/nodegit@0.26.8":
-  version "0.26.8"
-  resolved "https://registry.npmjs.org/@types/nodegit/-/nodegit-0.26.8.tgz#81a79307fbdd1cf028a8ec7cbc94020bac54be6f"
-  integrity sha512-CwcynPazar6cJxjn8PG2RIujNgFvH2pAoA/bBBvPTUrONVzc9hj0DRMYzioy7zI/+e8TfJJLP+DK26mEU0eErg==
+"@types/nodegit@0.27.0":
+  version "0.27.0"
+  resolved "https://registry.npmjs.org/@types/nodegit/-/nodegit-0.27.0.tgz#811578c17ae5554d99b9b7a3f28366ea5a91e863"
+  integrity sha512-RAbvRY0dVNoZfkt+Q2bGuNepf2wyT0JClNFxZEO1TA3Z9zYrP20RdpGKOruOeJqXde2SgEDBbJ+SJYvMMnfgBA==
   dependencies:
     "@types/node" "*"
 
